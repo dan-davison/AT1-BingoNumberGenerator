@@ -277,6 +277,8 @@ namespace AT1_BingoNumberGenerator_DanDavison
                     Console.WriteLine("         AT1 Bingo Number Generator");
                     Console.WriteLine("           Dan Davison, 103009408");
                     Console.WriteLine("_____________________________________________");
+
+                    Console.ReadKey();
                     
                     break;
                 }  
