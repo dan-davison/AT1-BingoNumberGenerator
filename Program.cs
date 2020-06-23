@@ -9,7 +9,8 @@ namespace AT1_BingoNumberGenerator_DanDavison
         static void Main()
         {
             int limit = 0;
-            List<int> list = new List<int>();
+            List<int> listOrder = new List<int>();
+            List<int> listSort = new List<int>();
             bool limitCheck = false;
             
             Console.WriteLine("");
@@ -104,7 +105,7 @@ namespace AT1_BingoNumberGenerator_DanDavison
                     Random random1 = new Random();
                     int RNG = random1.Next(1, limit);
 
-                    if(list.Contains(RNG))
+                    if(listOrder.Contains(RNG))
                     {
                         Console.WriteLine("");
                         Console.WriteLine("_____________________________________________");
@@ -122,7 +123,8 @@ namespace AT1_BingoNumberGenerator_DanDavison
                         Console.WriteLine("The number drawn is " + RNG);
                         Console.WriteLine("_____________________________________________");
                         Console.WriteLine("");
-                        list.Add(RNG);
+                        listOrder.Add(RNG);
+                        listSort.Add(RNG);
                     }    
                 }
 //*****************************************************************************************************************************
@@ -175,7 +177,7 @@ namespace AT1_BingoNumberGenerator_DanDavison
                         Console.WriteLine("");
                         Console.WriteLine("Numbers in the order previously drawn: ");
 
-                        foreach (int num in list)
+                        foreach (int num in listOrder)
                         {
                             Console.Write(num +" ");
                         }
@@ -192,9 +194,9 @@ namespace AT1_BingoNumberGenerator_DanDavison
                         Console.WriteLine("");
                         Console.WriteLine("Numbers drawn displayed in numerical order: ");
 
-                        list.Sort();
+                        listSort.Sort();
 
-                        foreach (int numb in list)
+                        foreach (int numb in listSort)
                         {
                             Console.Write(numb +" ");
                         }
@@ -231,7 +233,7 @@ namespace AT1_BingoNumberGenerator_DanDavison
 
                     if (int.TryParse(search, out input4))
                     {
-                        if(list.Contains(input4))
+                        if(listOrder.Contains(input4))
                         {
                             Console.WriteLine("");
                             Console.WriteLine("_____________________________________________");

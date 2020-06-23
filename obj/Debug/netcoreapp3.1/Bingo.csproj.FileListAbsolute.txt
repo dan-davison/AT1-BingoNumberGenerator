@@ -9,3 +9,14 @@ E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Bingo\bin\
 E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Bingo\bin\Debug\netcoreapp3.1\Bingo.pdb
 E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Bingo\obj\Debug\netcoreapp3.1\Bingo.dll
 E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Bingo\obj\Debug\netcoreapp3.1\Bingo.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\Bingo.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\Bingo.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\Bingo.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\Bingo.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\Bingo.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\Bingo.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\Bingo.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\Bingo.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\Bingo.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\Bingo.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\Bingo.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Dan's Documents\\Swinburne\\Cert IV Work\\Intro Programming\\Bingo\\Bingo.csproj",
+      "projectUniqueName": "E:\\Documents\\Dan's Documents\\Swinburne\\Cert IV Work\\Intro Programming\\AT1-BingoNumberGenerator\\Bingo.csproj",
       "projectName": "Bingo",
-      "projectPath": "E:\\Documents\\Dan's Documents\\Swinburne\\Cert IV Work\\Intro Programming\\Bingo\\Bingo.csproj",
+      "projectPath": "E:\\Documents\\Dan's Documents\\Swinburne\\Cert IV Work\\Intro Programming\\AT1-BingoNumberGenerator\\Bingo.csproj",
       "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Dan's Documents\\Swinburne\\Cert IV Work\\Intro Programming\\Bingo\\obj\\",
+      "outputPath": "E:\\Documents\\Dan's Documents\\Swinburne\\Cert IV Work\\Intro Programming\\AT1-BingoNumberGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config"
